@@ -1,0 +1,31 @@
+Enter Name of Employee:
+Thiva
+Enter ID of Employee:
+246
+Enter Address of Employee:
+chennai
+Enter Mail ID of Employee:
+Thiva1234@gamil.com
+Enter Mobile Number of Employee:
+6380977562
+Enter the Basic Pay:
+20000
+
+Enter the Designation:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Exit
+2
+
+***** PAYSLIP *****
+Designation: Assistant Professor
+Employee Name: Thiva
+Employee ID: 246
+Address: chennai
+Mail ID: Thiva1234@gamil.com
+Mobile Number: 6380977562
+Basic Pay = 20000.0
+Gross Salary = 41400.0
+Net Salary = 38980.0

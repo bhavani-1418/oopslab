@@ -1,0 +1,6 @@
+Enter values :
+6
+7
+Area of Rectangle is 42.0
+Area of Triangle is 21.0
+Area of Circle is 113.14286
