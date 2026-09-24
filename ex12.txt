@@ -1,0 +1,10 @@
+Enter PIN: 1234
+
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter choice: 2
+Enter amount: 2000
+Amount Deposited Successfully
+Balance: Rs.7000.0
